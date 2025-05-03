@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
 ## Name:PRADISHA P
-## Reg.no:212222060279
+## Reg.no:212222060179
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
