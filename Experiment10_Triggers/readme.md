@@ -1,5 +1,6 @@
 # Experiment 10: PL/SQL – Triggers
-
+## Name: PRADISHA P
+## Reg.no:212222060179
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
